@@ -1,4 +1,4 @@
-print("Hello World")
+print("Hello Nepal")
 # guys yeha kehi lekhaa python ko code block
 
 print ("Hello, I am Rupesh Bashyal from ISMT ")
